@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.csv
+*.html
+*.png
+vis/
+data/
+iframe_figures/
+*.log
